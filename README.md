@@ -1,2 +1,2 @@
-# orange-landingpage
+# purple-landingpage
 Einfache statische und stylische Landingspage ohne besondere Inhalte.
